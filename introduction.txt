@@ -1,1 +1,2 @@
 this repo will give you basic frontend project based on angular.
+thank you.
